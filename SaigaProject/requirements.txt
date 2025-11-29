@@ -1,0 +1,12 @@
+ctransformers
+transformers
+tokenizers
+datasets
+evaluate
+nltk
+rouge_score
+absl-py
+jsonlines
+gradio
+zstandard
+bert_score
